@@ -23,6 +23,7 @@ My main interests include desktop app design (WPF), responsive web interfaces, a
 
 
 🚀 Projects & Interests
+
  ✅ WPF desktop applications  
  ✅ SQL databases and data handling  
  ✅ Web development (HTML/CSS/JavaScript)  
