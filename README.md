@@ -2,8 +2,8 @@
 🎓 Aspiring Software Developer | 💻 Focused on C#, Java, Kotlin, SQL, MCV & Web Development  
 I'm currently studying software development, building real-world projects, and exploring how to create clean, user-friendly applications.  
 My main interests include desktop app design (WPF), responsive web interfaces, and backend logic using modern tools and languages.
----
-## 🧰 Languages & Tools
+
+ 🧰 Languages & Tools
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
@@ -15,15 +15,14 @@ My main interests include desktop app design (WPF), responsive web interfaces, a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" title="Visual Studio" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
 </p>
----
-## 🚀 Projects & Interests
-- ✅ WPF desktop applications  
-- ✅ SQL databases and data handling  
-- ✅ Web development (HTML/CSS/JavaScript)  
-- ✅ OOP projects in Java and Kotlin  
-- ✅ Clean, accessible UI/UX design  
----
-## 🎯 Current Goals
-- Improve backend development skills  
-- Build more full-stack projects  
-- Contribute to open-source or small team collaborations  
+
+🚀 Projects & Interests
+ ✅ WPF desktop applications  
+ ✅ SQL databases and data handling  
+ ✅ Web development (HTML/CSS/JavaScript)  
+ ✅ OOP projects in Java and Kotlin  
+ ✅ Clean, accessible UI/UX design  
+
+🎯 Current Goals
+Improve backend development skills  
+Build more full-stack projects  
