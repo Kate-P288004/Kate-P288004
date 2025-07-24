@@ -31,6 +31,3 @@ My main interests include desktop app design (WPF), responsive web interfaces, a
  ✅ Clean, accessible UI/UX design  
 
 
-🎯 Current Goals
-Improve backend development skills  
-Build more full-stack projects  
