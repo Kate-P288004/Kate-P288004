@@ -1,7 +1,12 @@
-👋 Hi, I’m Kate  
-🎓 Aspiring Software Developer | 💻 Focused on C#, Java, Kotlin, SQL, MCV & Web Development  
-I'm currently studying software development, building real-world projects, and exploring how to create clean, user-friendly applications.  
+👋 Hi, I’m Kate   
+
+
+🎓 Student Software Developer
+💻 Focused on C#, Java, Kotlin, SQL, MCV & Web Development  
+I'm currently studying software development, building real-world projects and exploring how to create clean, user-friendly applications.  
 My main interests include desktop app design (WPF), responsive web interfaces, and backend logic using modern tools and languages.
+
+
 
  🧰 Languages & Tools
 <p>
@@ -16,12 +21,14 @@ My main interests include desktop app design (WPF), responsive web interfaces, a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
 </p>
 
+
 🚀 Projects & Interests
  ✅ WPF desktop applications  
  ✅ SQL databases and data handling  
  ✅ Web development (HTML/CSS/JavaScript)  
  ✅ OOP projects in Java and Kotlin  
  ✅ Clean, accessible UI/UX design  
+
 
 🎯 Current Goals
 Improve backend development skills  
